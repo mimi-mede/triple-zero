@@ -1,0 +1,13 @@
+﻿Alternatives,Bar,Friday,Hungry,Patrons,Price,Rain,Reservation,Type,Estimated,Wait
+Yes,No,No,Yes,Some,Expensive,No,Yes,French,1,Yes
+Yes,No,No,Yes,Full,Cheap,No,No,Thai,4,No
+No,Yes,No,No,Some,Cheap,No,No,Burger,1,Yes
+Yes,No,Yes,Yes,Full,Cheap,Yes,No,Thai,2,Yes
+Yes,No,Yes,No,Full,Expensive,No,Yes,French,5,No
+No,Yes,No,Yes,Some,Medium,Yes,Yes,Italian,1,Yes
+No,Yes,No,No,None,Cheap,Yes,No,Burger,1,No
+No,No,No,Yes,Some,Medium,Yes,Yes,Thai,1,Yes
+No,Yes,Yes,No,Full,Cheap,Yes,No,Burger,5,No
+Yes,Yes,Yes,Yes,Full,Expensive,No,Yes,Italian,2,No
+No,No,No,No,None,Cheap,No,No,Thai,1,No
+Yes,Yes,Yes,Yes,Full,Cheap,No,No,Burger,4,Yes
