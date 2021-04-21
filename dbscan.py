@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from sklearn.cluster import DBSCAN 
 
-pdf = pd.read_csv("C:\\coffee\\house_sales.csv")
+pdf = pd.read_csv('.\\data\\house_sales.csv')
 pdf = pdf[['lat','long']]
 pdf.drop_duplicates()
 pdf.head(5)
